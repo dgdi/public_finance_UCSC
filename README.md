@@ -1,5 +1,4 @@
-# Public Finance - Second Part, UCSC, Milan
-## Repository of notebooks 
+# Public Finance - Second Part, UCSC, Milan \n Repository of notebooks 
 
 by [Duccio Gamannossi degl'Innocenti](http://www.dgdi.me)
 
