@@ -1,8 +1,8 @@
-name: test-binder-sage
+name: public_finance_UCSC
 
 channels:
   - defaults
   - conda-forge
 
 dependencies:
-  - sage=9.2
+  - sage
