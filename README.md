@@ -10,7 +10,7 @@ Notebooks can be **viewed statically** here on GitHub but **not all the content 
 To correctly display the notebooks you need to **evaluate** them. For the **students of the course** it is advised to use either **SageMath** or **CoCalc**:
 
  * **SageMath** - [download](http://www.sagemath.org/download.html) and install SageMath 9.2 (SageMath 9.3, the latest version, does not display correctly some formulas) on your computer. Run SageMath Notebook and open the notebook of interest. See below for a step-by-step videoguide.
- * **CoCalc** - This option does not require any setup on your computer and so it is recommended if you are incurring problems during the installation of Sagemath. Cocalc  acan be used as an anonymous user or as a registered user. When using CoCalc as an anonymous user, your session is temporary and all your data is wiped after some time of inactivity. Otherwise, you can sign up for a free account (you just need an e-mail) that allows you to store your data (more than enough for the purpose of this course). 
+ * **CoCalc** - This option does not require any setup on your computer and so it is recommended if you are incurring problems during the installation of Sagemath. You can use CoCalc anonimously or as a registered user. When using CoCalc as an anonymous user, your session is temporary and all your data is wiped after some time of inactivity. Otherwise, you can sign up for a free account (you just need an e-mail) that allows you to store your data (more than enough for the purpose of this course). 
  
 Here you can find video guides to open notebooks with [SageMath](http://www.dgdi.me/data/video/open_notebooks_sagemath.mp4) and [CoCalc](http://www.dgdi.me/data/video/open_notebooks_cocalc.mp4). 
 
